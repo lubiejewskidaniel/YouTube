@@ -1,0 +1,14 @@
+// Abstarct Equality Comparison Algorithm
+// Algorytm luźnego porównania
+0 == "0"; // true
+0 == ""; // true 
+false == 0; // true
+null == undefined; // true
+
+----------------------------------------
+// Strict Equality Comparison Algorithm
+// Algorytm ścisłego porównania
+0 === '0'           // false 
+false === 0         // false
+null === undefined  // false
+
