@@ -1,4 +1,4 @@
-# 🧠 Framework czy Biblioteka? - Kod z filmu YouTube
+# 🧠 Framework czy Biblioteka? - Kod dla filmu YouTube
 
 Repozytorium zawiera kod wspierający materiał wideo dostępny pod linkiem:  
 🎥 [Czy Express.js to biblioteka, czy framework?](https://youtu.be/lTm0HOuBS5Y?si=nKcJGqCmtogjC_hB)
